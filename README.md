@@ -42,17 +42,6 @@
   </tr>
 </table>
 
-## Projects
-
-### Real-Time Distance Monitoring System
-- Developed a real-time object detection system using ESP32 with instant alerts to mobile devices
-- Integrated Ultrasonic Distance Sensor (HR-SR04), Wi-Fi Module (ESP-32), Buzzer and RGB LED
-- Built a mobile app with Android Studio, Kotlin, and Firebase for real-time alerts with 99% data accuracy
-
-### Crop Solutions Android Application
-- Developed an Android application enabling farmers to upload crop photos for expert advice
-- Implemented intuitive features like magic login, voice navigation and an agricultural supplies shop
-- Used Android Studio, Java, XML, Firebase Authentication, Firebase Firestore
 
 ## Experience
 
@@ -69,7 +58,7 @@
   <a href="https://www.linkedin.com/in/raushansahu/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="theraushankumarsahu@gmail.com" target="_blank">
+  <a href="mailto : theraushankumarsahu@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>  
 </div>
@@ -86,11 +75,6 @@
   </div>
 </div>
 
-
-
-- **All India Secondary School Examination**  
-  Don Bosco Convent School, Jhanjharpur (2018)  
-  Percentage: 80.8%
 
 <br/>
 
