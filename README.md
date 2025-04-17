@@ -63,10 +63,10 @@
 
 ## Connect with me
 <div align="center">
-  <a href="https://github.com/theraushankumarsahu" target="_blank">
+  <a href="https://github.com/onlyraushan" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/theraushankumarsahu" target="_blank">
+  <a href="https://www.linkedin.com/in/raushansahu/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:theraushankumarsahu@gmail.com" target="_blank">
@@ -86,14 +86,7 @@
   </div>
 </div>
 
-## Education
-- **Bachelor of Technology** in Electronics and Communication Engineering  
-  Heritage Institute of Technology, Kolkata (2021-2025)  
-  CGPA: 8.44/10
 
-- **All India Senior School Certificate Examination** in Science  
-  Jawahar Navodaya Vidyalaya, Darbhanga (2018-2020)  
-  Percentage: 87.8%
 
 - **All India Secondary School Examination**  
   Don Bosco Convent School, Jhanjharpur (2018)  
