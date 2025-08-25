@@ -5,8 +5,8 @@
 ## <div align="center">Hi there, I'm Raushan Kumar Sahu 👋</div>
 
 - 🎓 Electronics and Communication Engineering student at Heritage Institute of Technology
-- 🌱 I'm currently learning IoT and Android Development
-- 💬 Ask me about Arduino, ESP32, and Android app development
+- 🌱 I'm currently learning BigData and Scala
+- 💬 Ask me about Arduino, ESP32, Java, SQL and Scala(Saprk)
 - ⚡ Fun fact: I've solved 400+ programming challenges on Geeks for Geeks
 
 ### My Skill Set
