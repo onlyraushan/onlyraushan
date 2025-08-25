@@ -6,7 +6,7 @@
 
 - 🎓 Electronics and Communication Engineering student at Heritage Institute of Technology
 - 🌱 I'm currently learning BigData and Scala
-- 💬 Ask me about Arduino, ESP32, Java, SQL and Scala(Saprk)
+- 💬 Ask me about Arduino, ESP32, Java, SQL and Scala(Spark)
 - ⚡ Fun fact: I've solved 400+ programming challenges on Geeks for Geeks
 
 ### My Skill Set
