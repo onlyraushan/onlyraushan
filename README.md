@@ -4,10 +4,10 @@
 
 ## <div align="center">Hi there, I'm Raushan Kumar Sahu 👋</div>
 
-- 🎓 Electronics and Communication Engineering student at Heritage Institute of Technology
-- 🌱 I'm currently learning BigData and Scala
-- 💬 Ask me about Arduino, ESP32, Java, SQL and Scala(Spark)
-- ⚡ Fun fact: I've solved 400+ programming challenges on Geeks for Geeks
+- 🎓 Electronics and Communication Engineering student at Heritage Institute of Technology  
+- 🌱 I'm currently learning BigData and Scala  
+- 💬 Ask me about Arduino, ESP32, Java, SQL, Python, Scala(Spark)  
+- ⚡ Fun fact: I've solved 400+ programming challenges on Geeks for Geeks  
 
 ### My Skill Set
 
@@ -37,28 +37,27 @@
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
         <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" height="50" />  
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+        <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="Scala" height="50" />  
+        <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="Apache Spark" height="50" />  
       </div>
     </td>
   </tr>
 </table>
 
-
 ## Experience
 
 ### Summer Intern at IIT Roorkee (June 2024 – July 2024)
-- Gained expertise in ESP32 and sensor connectivity using Arduino IDE and Wokwi simulator
-- Built a project showcasing advanced ESP32 integration and hardware-software interfacing
-- Presented the final prototype at a tech symposium, demonstrating real-time data monitoring
+- Gained expertise in ESP32 and sensor connectivity using Arduino IDE and Wokwi simulator  
+- Built a project showcasing advanced ESP32 integration and hardware-software interfacing  
+- Presented the final prototype at a tech symposium, demonstrating real-time data monitoring  
 
 ## Connect with me
 <div align="center">
-  <a href="https://github.com/onlyraushan" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="https://www.linkedin.com/in/raushansahu/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto : theraushankumarsahu@gmail.com" target="_blank">
+  <a href="mailto:theraushankumarsahu@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>  
 </div>
@@ -74,7 +73,6 @@
     <p><strong>Arduino</strong></p>
   </div>
 </div>
-
 
 <br/>
 
