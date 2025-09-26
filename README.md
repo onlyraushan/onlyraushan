@@ -4,55 +4,86 @@
 
 ## <div align="center">Hi there, I'm Raushan Kumar Sahu 👋</div>
 
-- 🎓 Electronics and Communication Engineering student at Heritage Institute of Technology  
-- 🌱 I'm currently learning BigData and Scala  
-- 💬 Ask me about Arduino, ESP32, Java, SQL, Python, Scala(Spark)  
-- ⚡ Fun fact: I've solved 400+ programming challenges on Geeks for Geeks  
+🎓 **B.Tech (ECE)** at Heritage Institute of Technology (Kolkata)  
+💻 **Software Engineer @ Capgemini** (Big Data & Scala)  
+🌱 Exploring **Apache Spark | Data Engineering | IoT Hardware**  
+💡 Passionate about building **data-driven & IoT solutions**  
 
-### My Skill Set
+---
+
+### 🚀 About Me  
+- 📝 Completed **Capgemini Training** on Big Data & Scala — Advanced SQL, Spark, Python & ETL workflows.  
+- ⚙️ Experience with **ESP32, Sensors, and Arduino IDE**; developed **real-time monitoring systems**.  
+- 🧠 Skilled in **OOP Concepts, DSA, IoT Integration, Data Modelling, and MLlib analytics**.  
+- 🏆 Solved **400+ programming challenges on Geeks for Geeks**; **4-Star (Silver) SQL badge on HackerRank**.  
+
+---
+
+### 🛠️ My Tech Stack  
 
 <table>
   <tr>
     <td valign="top" width="33%">
-      <h4 align="center">Mobile Development</h4>
-      <div align="center">  
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />  
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
+      <h4 align="center">Programming & Data</h4>
+      <div align="center">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+        <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="Scala" height="50" />
+        <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="Apache Spark" height="50" />
+        <img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="SQL" height="50" />
       </div>
     </td>
     <td valign="top" width="33%">
       <h4 align="center">IoT & Hardware</h4>
-      <div align="center">  
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />  
-        <img style="margin: 10px" src="https://dkarduino.files.wordpress.com/2019/10/esp32-logo.jpg" alt="ESP32" height="50" />  
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+      <div align="center">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />
+        <img style="margin: 10px" src="https://dkarduino.files.wordpress.com/2019/10/esp32-logo.jpg" alt="ESP32" height="50" />
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
       </div>
     </td>
     <td valign="top" width="33%">
       <h4 align="center">Developer Tools</h4>
-      <div align="center">  
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android Studio" height="50" />  
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
-        <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" height="50" />  
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-        <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="Scala" height="50" />  
-        <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="Apache Spark" height="50" />  
+      <div align="center">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+        <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" height="50" />
+        <img style="margin: 10px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" alt="IntelliJ IDEA" height="50" />
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />
       </div>
     </td>
   </tr>
 </table>
 
-## Experience
+---
 
-### Summer Intern at IIT Roorkee (June 2024 – July 2024)
-- Gained expertise in ESP32 and sensor connectivity using Arduino IDE and Wokwi simulator  
-- Built a project showcasing advanced ESP32 integration and hardware-software interfacing  
-- Presented the final prototype at a tech symposium, demonstrating real-time data monitoring  
+### 💼 Experience  
+**Software Engineer – Capgemini (July 2025 – Present)**  
+- Training in **Big Data & Scala**, mastering **Advanced SQL, Spark, Python, and ETL pipelines**.  
+- Developed scalable data workflows and distributed analytics using **Spark**.  
 
-## Connect with me
+**Summer Intern – IIT Roorkee (June 2024 – July 2024)**  
+- Built an **ESP32-based real-time monitoring system** using Arduino IDE & Wokwi simulator.  
+- Presented the prototype at a **tech symposium** to 20+ professionals.  
+
+---
+
+### 📂 Featured Projects  
+
+🔹 **[Patient Risk Prediction (Scala + Spark + SQL)](https://github.com/onlyraushan/Patient_Risk_Predication)**  
+ETL pipelines, PostgreSQL modelling, MLlib logistic regression for healthcare analytics.  
+
+🔹 **[Real-Time Distance Monitoring System (Kotlin + ESP32)](https://github.com/onlyraushan/SmartSafety)**  
+ESP32 with ultrasonic sensors, Wi-Fi module, Android app for real-time alerts.  
+
+---
+
+### 🏆 Achievements  
+- Solved **400+ programming challenges** on [Geeks for Geeks](https://www.geeksforgeeks.org/user/raushan_sahu17/).  
+- Earned **Silver Badge (4-Star) in SQL** on [HackerRank](https://www.hackerrank.com/profile/theraushankumar1).  
+- Led a **team of 10** to organize “Ustad-E-Electronics” for 800+ participants.  
+
+---
+
+### 📫 Connect with Me  
 <div align="center">
   <a href="https://www.linkedin.com/in/raushansahu/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -62,19 +93,15 @@
   </a>  
 </div>
 
-## GitHub Stats  
+---
+
+### 📊 GitHub Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=theraushankumarsahu&show_icons=true&count_private=true&hide_border=true&theme=radical" style="width: 50%; max-width: 300px;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=theraushankumarsahu&theme=radical&hide_border=true" style="width: 50%; max-width: 300px;" />
-  <div style="width: 50%; max-width: 300px; text-align: center;">
-    <h4>Most Used Languages</h4>
-    <p><strong>Java</strong></p>
-    <p><strong>Kotlin</strong></p>
-    <p><strong>Arduino</strong></p>
-  </div>
 </div>
 
-<br/>
+---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=theraushankumarsahu&&style=flat-square" alt="Profile Views" />
