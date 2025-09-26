@@ -66,15 +66,6 @@
 
 ---
 
-### 📂 Featured Projects  
-
-🔹 **[Patient Risk Prediction (Scala + Spark + SQL)](https://github.com/onlyraushan/Patient_Risk_Predication)**  
-ETL pipelines, PostgreSQL modelling, MLlib logistic regression for healthcare analytics.  
-
-🔹 **[Real-Time Distance Monitoring System (Kotlin + ESP32)](https://github.com/onlyraushan/SmartSafety)**  
-ESP32 with ultrasonic sensors, Wi-Fi module, Android app for real-time alerts.  
-
----
 
 ### 🏆 Achievements  
 - Solved **400+ programming challenges** on [Geeks for Geeks](https://www.geeksforgeeks.org/user/raushan_sahu17/).  
