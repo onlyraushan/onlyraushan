@@ -7,7 +7,7 @@
 🎓 **B.Tech (ECE)** at Heritage Institute of Technology (Kolkata)  
 💻 **Software Engineer @ Capgemini** (Big Data & Scala)  
 🌱 Exploring **Apache Spark | Data Engineering | IoT Hardware**  
-💡 Passionate about building **data-driven & IoT solutions**  
+💡 Passionate about building **data-driven**  
 
 ---
 
