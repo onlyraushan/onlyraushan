@@ -4,9 +4,9 @@
 
 ## <div align="center">Hi there, I'm Raushan Kumar Sahu 👋</div>
 
-🎓 **B.Tech (ECE)** at Heritage Institute of Technology (Kolkata)  
+🎓 **B.Tech** at Heritage Institute of Technology (Kolkata)  
 💻 **Software Engineer @ Capgemini** (Big Data & Scala)  
-🌱 Exploring **Apache Spark | Data Engineering | IoT Hardware**  
+🌱 Exploring **Apache Spark | Data Engineering**  
 💡 Passionate about building **data-driven**  
 
 ---
